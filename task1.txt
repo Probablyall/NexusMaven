@@ -1,0 +1,9 @@
+1)
+Знакомоство с SonarQube
+screen1_cicd_failed - ошибка
+screen1_cicd_passed - исправлено
+
+
+2)
+Nexus & Maven
+https://github.com/Probablyall/NexusMaven
